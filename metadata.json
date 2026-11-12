@@ -1,0 +1,6 @@
+{
+  "name": "轻语安全防御工作站 PRO",
+  "description": "商用级精密涉密防御与量子安全通信工作站，集成QKD量子密钥分发遥测、自组网雷达探测、国密SM2/SM3/SM4加密信道、离线人脸2FA安全锁屏与密态留存中心。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
